@@ -1,0 +1,21 @@
+{
+  "versionCode": 441,
+  "channels": {
+    "stable": {
+      "versionCode": 441,
+      "versionName": "2.0.0.2.441",
+      "md5": "c915bb6ac76611899c240c3c256fb52f",
+      "size": 6886950,
+      "apk": "tian2-v441.apk",
+      "notes": "更新通道改走 GitHub（jsdelivr 首选 / raw 兜底）；移除 OSS 与 box.json 信箱；ntfy 命令按 cmdId 去重；复活改认字定位；清理 daily_claim 死代码"
+    },
+    "canary": {
+      "versionCode": 441,
+      "versionName": "2.0.0.2.441",
+      "md5": "c915bb6ac76611899c240c3c256fb52f",
+      "size": 6886950,
+      "apk": "tian2-v441.apk",
+      "notes": "更新通道改走 GitHub（jsdelivr 首选 / raw 兜底）；移除 OSS 与 box.json 信箱；ntfy 命令按 cmdId 去重；复活改认字定位；清理 daily_claim 死代码"
+    }
+  }
+}
