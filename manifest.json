@@ -1,21 +1,21 @@
 {
-  "versionCode": 445,
+  "versionCode": 446,
   "channels": {
     "stable": {
-      "versionCode": 445,
-      "versionName": "2.0.0.2.445",
-      "md5": "b5d3d4e0155afb44b688eaedbfa45c85",
+      "versionCode": 446,
+      "versionName": "2.0.0.2.446",
+      "md5": "e192888b71c7d4e9d8a9b1a7db3b88ed",
       "size": 6903416,
-      "apk": "tian2-v445.apk",
-      "notes": "445：新增自动分解模块（默认开启，可远程一键全开/全关）；新增设备点名命令通道（5 秒级、支持指定编号）；全 App 不再注入系统返回键，统一点界面返回箭头；新增 GitHub 日志直传连通性探测。"
+      "apk": "tian2-v446.apk",
+      "notes": "446：自动分解只在进程启动后校准一次（去掉 05:00 换日与配置变化触发）；safeBack/back/backByUser 体系已从 dex 物理删除，返回统一改点右上角箭头 (1228,36)；脚本包同号 446。"
     },
     "canary": {
-      "versionCode": 445,
-      "versionName": "2.0.0.2.445",
-      "md5": "b5d3d4e0155afb44b688eaedbfa45c85",
+      "versionCode": 446,
+      "versionName": "2.0.0.2.446",
+      "md5": "e192888b71c7d4e9d8a9b1a7db3b88ed",
       "size": 6903416,
-      "apk": "tian2-v445.apk",
-      "notes": "445：新增自动分解模块（默认开启，可远程一键全开/全关）；新增设备点名命令通道（5 秒级、支持指定编号）；全 App 不再注入系统返回键，统一点界面返回箭头；新增 GitHub 日志直传连通性探测。"
+      "apk": "tian2-v446.apk",
+      "notes": "446：自动分解只在进程启动后校准一次（去掉 05:00 换日与配置变化触发）；safeBack/back/backByUser 体系已从 dex 物理删除，返回统一改点右上角箭头 (1228,36)；脚本包同号 446。"
     }
   }
 }
