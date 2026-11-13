@@ -1,21 +1,21 @@
 {
-  "versionCode": 443,
+  "versionCode": 444,
   "channels": {
     "stable": {
-      "versionCode": 443,
-      "versionName": "2.0.0.2.443",
-      "md5": "260af3d9163432ab6a456d2bfa0cff40",
+      "versionCode": 444,
+      "versionName": "2.0.0.2.444",
+      "md5": "8d845d64c723d86cabc80f7d5ad9f360",
       "size": 6891052,
-      "apk": "tian2-v443.apk",
-      "notes": "443：日志通道换成私有频道（tian2-log-m3k9v2x7）；每日领取仍为任务模块第一位；脚本层 413。仍需先卸载旧版再装（调试签名）。"
+      "apk": "tian2-v444.apk",
+      "notes": "444：每日队列顺序改为 每日领取 → 每日副本 → 神谕任务（仅调整顺序，其他未改）。安装后因版本变化会立即触发一次每日领取，属预期。"
     },
     "canary": {
-      "versionCode": 443,
-      "versionName": "2.0.0.2.443",
-      "md5": "260af3d9163432ab6a456d2bfa0cff40",
+      "versionCode": 444,
+      "versionName": "2.0.0.2.444",
+      "md5": "8d845d64c723d86cabc80f7d5ad9f360",
       "size": 6891052,
-      "apk": "tian2-v443.apk",
-      "notes": "443：日志通道换成私有频道（tian2-log-m3k9v2x7）；每日领取仍为任务模块第一位；脚本层 413。仍需先卸载旧版再装（调试签名）。"
+      "apk": "tian2-v444.apk",
+      "notes": "444：每日队列顺序改为 每日领取 → 每日副本 → 神谕任务（仅调整顺序，其他未改）。安装后因版本变化会立即触发一次每日领取，属预期。"
     }
   }
 }
