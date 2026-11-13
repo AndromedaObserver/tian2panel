@@ -1,21 +1,21 @@
 {
-  "versionCode": 444,
+  "versionCode": 445,
   "channels": {
     "stable": {
-      "versionCode": 444,
-      "versionName": "2.0.0.2.444",
-      "md5": "8d845d64c723d86cabc80f7d5ad9f360",
-      "size": 6891052,
-      "apk": "tian2-v444.apk",
-      "notes": "444：每日队列顺序改为 每日领取 → 每日副本 → 神谕任务（仅调整顺序，其他未改）。安装后因版本变化会立即触发一次每日领取，属预期。"
+      "versionCode": 445,
+      "versionName": "2.0.0.2.445",
+      "md5": "b5d3d4e0155afb44b688eaedbfa45c85",
+      "size": 6903416,
+      "apk": "tian2-v445.apk",
+      "notes": "445：新增自动分解模块（默认开启，可远程一键全开/全关）；新增设备点名命令通道（5 秒级、支持指定编号）；全 App 不再注入系统返回键，统一点界面返回箭头；新增 GitHub 日志直传连通性探测。"
     },
     "canary": {
-      "versionCode": 444,
-      "versionName": "2.0.0.2.444",
-      "md5": "8d845d64c723d86cabc80f7d5ad9f360",
-      "size": 6891052,
-      "apk": "tian2-v444.apk",
-      "notes": "444：每日队列顺序改为 每日领取 → 每日副本 → 神谕任务（仅调整顺序，其他未改）。安装后因版本变化会立即触发一次每日领取，属预期。"
+      "versionCode": 445,
+      "versionName": "2.0.0.2.445",
+      "md5": "b5d3d4e0155afb44b688eaedbfa45c85",
+      "size": 6903416,
+      "apk": "tian2-v445.apk",
+      "notes": "445：新增自动分解模块（默认开启，可远程一键全开/全关）；新增设备点名命令通道（5 秒级、支持指定编号）；全 App 不再注入系统返回键，统一点界面返回箭头；新增 GitHub 日志直传连通性探测。"
     }
   }
 }
