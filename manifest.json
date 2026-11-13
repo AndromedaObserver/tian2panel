@@ -1,21 +1,21 @@
 {
-  "versionCode": 441,
+  "versionCode": 442,
   "channels": {
     "stable": {
-      "versionCode": 441,
-      "versionName": "2.0.0.2.441",
-      "md5": "c915bb6ac76611899c240c3c256fb52f",
-      "size": 6886950,
-      "apk": "tian2-v441.apk",
-      "notes": "更新通道改走 GitHub（jsdelivr 首选 / raw 兜底）；移除 OSS 与 box.json 信箱；ntfy 命令按 cmdId 去重；复活改认字定位；清理 daily_claim 死代码"
+      "versionCode": 442,
+      "versionName": "2.0.0.2.442",
+      "md5": "fd77701d38ab82e8b632421a52d874a8",
+      "size": 6891052,
+      "apk": "tian2-v442.apk",
+      "notes": "442：每日领取提前到任务模块第一位（net_fix 之后）；脚本热更频道换成私有频道；脚本层升到 v413。注意：本包为调试签名，需先卸载旧版再安装。"
     },
     "canary": {
-      "versionCode": 441,
-      "versionName": "2.0.0.2.441",
-      "md5": "c915bb6ac76611899c240c3c256fb52f",
-      "size": 6886950,
-      "apk": "tian2-v441.apk",
-      "notes": "更新通道改走 GitHub（jsdelivr 首选 / raw 兜底）；移除 OSS 与 box.json 信箱；ntfy 命令按 cmdId 去重；复活改认字定位；清理 daily_claim 死代码"
+      "versionCode": 442,
+      "versionName": "2.0.0.2.442",
+      "md5": "fd77701d38ab82e8b632421a52d874a8",
+      "size": 6891052,
+      "apk": "tian2-v442.apk",
+      "notes": "442：每日领取提前到任务模块第一位（net_fix 之后）；脚本热更频道换成私有频道；脚本层升到 v413。注意：本包为调试签名，需先卸载旧版再安装。"
     }
   }
 }
