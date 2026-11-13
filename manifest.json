@@ -1,21 +1,21 @@
 {
-  "versionCode": 446,
+  "versionCode": 447,
   "channels": {
     "stable": {
-      "versionCode": 446,
-      "versionName": "2.0.0.2.446",
-      "md5": "e192888b71c7d4e9d8a9b1a7db3b88ed",
+      "versionCode": 447,
+      "versionName": "2.0.0.2.447",
+      "md5": "9a8d49412d0c34f58ab9664f65052a52",
       "size": 6903416,
-      "apk": "tian2-v446.apk",
-      "notes": "446：自动分解只在进程启动后校准一次（去掉 05:00 换日与配置变化触发）；safeBack/back/backByUser 体系已从 dex 物理删除，返回统一改点右上角箭头 (1228,36)；脚本包同号 446。"
+      "apk": "tian2-v447.apk",
+      "notes": "447：点名命令补齐批量暂停/启动（含落地校验，回执 ok/fail）；自动分解开关走收藏目标行；更新检查、脚本热更轮询、命令长连接在暂停期间照常运行。"
     },
     "canary": {
-      "versionCode": 446,
-      "versionName": "2.0.0.2.446",
-      "md5": "e192888b71c7d4e9d8a9b1a7db3b88ed",
+      "versionCode": 447,
+      "versionName": "2.0.0.2.447",
+      "md5": "9a8d49412d0c34f58ab9664f65052a52",
       "size": 6903416,
-      "apk": "tian2-v446.apk",
-      "notes": "446：自动分解只在进程启动后校准一次（去掉 05:00 换日与配置变化触发）；safeBack/back/backByUser 体系已从 dex 物理删除，返回统一改点右上角箭头 (1228,36)；脚本包同号 446。"
+      "apk": "tian2-v447.apk",
+      "notes": "447：点名命令补齐批量暂停/启动（含落地校验，回执 ok/fail）；自动分解开关走收藏目标行；更新检查、脚本热更轮询、命令长连接在暂停期间照常运行。"
     }
   }
 }
