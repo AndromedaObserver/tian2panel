@@ -1,21 +1,21 @@
 {
-  "versionCode": 442,
+  "versionCode": 443,
   "channels": {
     "stable": {
-      "versionCode": 442,
-      "versionName": "2.0.0.2.442",
-      "md5": "fd77701d38ab82e8b632421a52d874a8",
+      "versionCode": 443,
+      "versionName": "2.0.0.2.443",
+      "md5": "260af3d9163432ab6a456d2bfa0cff40",
       "size": 6891052,
-      "apk": "tian2-v442.apk",
-      "notes": "442：每日领取提前到任务模块第一位（net_fix 之后）；脚本热更频道换成私有频道；脚本层升到 v413。注意：本包为调试签名，需先卸载旧版再安装。"
+      "apk": "tian2-v443.apk",
+      "notes": "443：日志通道换成私有频道（tian2-log-m3k9v2x7）；每日领取仍为任务模块第一位；脚本层 413。仍需先卸载旧版再装（调试签名）。"
     },
     "canary": {
-      "versionCode": 442,
-      "versionName": "2.0.0.2.442",
-      "md5": "fd77701d38ab82e8b632421a52d874a8",
+      "versionCode": 443,
+      "versionName": "2.0.0.2.443",
+      "md5": "260af3d9163432ab6a456d2bfa0cff40",
       "size": 6891052,
-      "apk": "tian2-v442.apk",
-      "notes": "442：每日领取提前到任务模块第一位（net_fix 之后）；脚本热更频道换成私有频道；脚本层升到 v413。注意：本包为调试签名，需先卸载旧版再安装。"
+      "apk": "tian2-v443.apk",
+      "notes": "443：日志通道换成私有频道（tian2-log-m3k9v2x7）；每日领取仍为任务模块第一位；脚本层 413。仍需先卸载旧版再装（调试签名）。"
     }
   }
 }
