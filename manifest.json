@@ -1,21 +1,21 @@
 {
-  "versionCode": 448,
+  "versionCode": 449,
   "channels": {
     "stable": {
-      "versionCode": 448,
-      "versionName": "2.0.0.2.448",
-      "md5": "6c4d85f221c9b2a882b6e8c1f57d7de2",
-      "size": 6903416,
-      "apk": "tian2-v448.apk",
-      "notes": "448：点名通道启动加兜底（异常不再导致闪退）；其余与 447 一致。"
+      "versionCode": 449,
+      "versionName": "2.0.0.2.449",
+      "md5": "e1f7c7fd4f7f76834745aa68ad503abc",
+      "size": 6891052,
+      "apk": "tian2-v449.apk",
+      "notes": "449：回到 444 基线，仅把版本号改为 449，其它字节与 444 完全一致（用于排除 445+ 启动崩溃）。"
     },
     "canary": {
-      "versionCode": 448,
-      "versionName": "2.0.0.2.448",
-      "md5": "6c4d85f221c9b2a882b6e8c1f57d7de2",
-      "size": 6903416,
-      "apk": "tian2-v448.apk",
-      "notes": "448：点名通道启动加兜底（异常不再导致闪退）；其余与 447 一致。"
+      "versionCode": 449,
+      "versionName": "2.0.0.2.449",
+      "md5": "e1f7c7fd4f7f76834745aa68ad503abc",
+      "size": 6891052,
+      "apk": "tian2-v449.apk",
+      "notes": "449：回到 444 基线，仅把版本号改为 449，其它字节与 444 完全一致（用于排除 445+ 启动崩溃）。"
     }
   }
 }
