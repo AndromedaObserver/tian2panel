@@ -1,21 +1,21 @@
 {
-  "versionCode": 447,
+  "versionCode": 448,
   "channels": {
     "stable": {
-      "versionCode": 447,
-      "versionName": "2.0.0.2.447",
-      "md5": "9a8d49412d0c34f58ab9664f65052a52",
+      "versionCode": 448,
+      "versionName": "2.0.0.2.448",
+      "md5": "6c4d85f221c9b2a882b6e8c1f57d7de2",
       "size": 6903416,
-      "apk": "tian2-v447.apk",
-      "notes": "447：点名命令补齐批量暂停/启动（含落地校验，回执 ok/fail）；自动分解开关走收藏目标行；更新检查、脚本热更轮询、命令长连接在暂停期间照常运行。"
+      "apk": "tian2-v448.apk",
+      "notes": "448：点名通道启动加兜底（异常不再导致闪退）；其余与 447 一致。"
     },
     "canary": {
-      "versionCode": 447,
-      "versionName": "2.0.0.2.447",
-      "md5": "9a8d49412d0c34f58ab9664f65052a52",
+      "versionCode": 448,
+      "versionName": "2.0.0.2.448",
+      "md5": "6c4d85f221c9b2a882b6e8c1f57d7de2",
       "size": 6903416,
-      "apk": "tian2-v447.apk",
-      "notes": "447：点名命令补齐批量暂停/启动（含落地校验，回执 ok/fail）；自动分解开关走收藏目标行；更新检查、脚本热更轮询、命令长连接在暂停期间照常运行。"
+      "apk": "tian2-v448.apk",
+      "notes": "448：点名通道启动加兜底（异常不再导致闪退）；其余与 447 一致。"
     }
   }
 }
