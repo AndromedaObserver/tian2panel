@@ -1,21 +1,21 @@
 {
-  "versionCode": 449,
+  "versionCode": 450,
   "channels": {
     "stable": {
-      "versionCode": 449,
-      "versionName": "2.0.0.2.449",
-      "md5": "e1f7c7fd4f7f76834745aa68ad503abc",
-      "size": 6891052,
-      "apk": "tian2-v449.apk",
-      "notes": "449：回到 444 基线，仅把版本号改为 449，其它字节与 444 完全一致（用于排除 445+ 启动崩溃）。"
+      "versionCode": 450,
+      "versionName": "2.0.0.2.450",
+      "md5": "8196419832f38072e51bfb3be387b799",
+      "size": 6895148,
+      "apk": "tian2-v450.apk",
+      "notes": "450：444 基线 + 仅新增 DeviceCmd（命令通道，safeStart 兜底），用于 A/B 定位 448 崩溃点。"
     },
     "canary": {
-      "versionCode": 449,
-      "versionName": "2.0.0.2.449",
-      "md5": "e1f7c7fd4f7f76834745aa68ad503abc",
-      "size": 6891052,
-      "apk": "tian2-v449.apk",
-      "notes": "449：回到 444 基线，仅把版本号改为 449，其它字节与 444 完全一致（用于排除 445+ 启动崩溃）。"
+      "versionCode": 450,
+      "versionName": "2.0.0.2.450",
+      "md5": "8196419832f38072e51bfb3be387b799",
+      "size": 6895148,
+      "apk": "tian2-v450.apk",
+      "notes": "450：444 基线 + 仅新增 DeviceCmd（命令通道，safeStart 兜底），用于 A/B 定位 448 崩溃点。"
     }
   }
 }
