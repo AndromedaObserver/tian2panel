@@ -1,21 +1,21 @@
 {
-  "versionCode": 450,
+  "versionCode": 461,
   "channels": {
     "stable": {
-      "versionCode": 450,
-      "versionName": "2.0.0.2.450",
-      "md5": "8196419832f38072e51bfb3be387b799",
-      "size": 6895148,
-      "apk": "tian2-v450.apk",
-      "notes": "450：444 基线 + 仅新增 DeviceCmd（命令通道，safeStart 兜底），用于 A/B 定位 448 崩溃点。"
+      "versionCode": 461,
+      "versionName": "2.0.0.2.461",
+      "md5": "a042dada07b57fe0c6e45ee2a8fdf470",
+      "size": 22615923,
+      "apk": "tian2-v461.apk",
+      "notes": "461：内置 OCR 离线模型版"
     },
     "canary": {
-      "versionCode": 450,
-      "versionName": "2.0.0.2.450",
-      "md5": "8196419832f38072e51bfb3be387b799",
-      "size": 6895148,
-      "apk": "tian2-v450.apk",
-      "notes": "450：444 基线 + 仅新增 DeviceCmd（命令通道，safeStart 兜底），用于 A/B 定位 448 崩溃点。"
+      "versionCode": 461,
+      "versionName": "2.0.0.2.461",
+      "md5": "a042dada07b57fe0c6e45ee2a8fdf470",
+      "size": 22615923,
+      "apk": "tian2-v461.apk",
+      "notes": "461：内置 OCR 离线模型版"
     }
   }
 }
